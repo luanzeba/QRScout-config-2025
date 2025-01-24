@@ -1,0 +1,1 @@
+# QRScout-config-2025
